@@ -3,7 +3,7 @@ import Button from "react-bootstrap/Button";
 const ShowButton = () => {
   return (
     <div className="d-flex justify-content-center">
-      <Button> Show / Hide </Button>
+      <Button> Show Product Bar </Button>
     </div>
   );
 };
